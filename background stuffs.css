@@ -1,13 +1,15 @@
 body{
-    background-image: url(wallpaper.jpg);
-    background-position: center fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
+/*    background-image: url(wallpaper.jpg);*/
+/*    background-position: center fixed;*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
+    background-color: lightgoldenrodyellow;
 }
 p{
-    color: lightseagreen;
+    color: red;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 40px;
     font-weight: normal;
     
 }
+
