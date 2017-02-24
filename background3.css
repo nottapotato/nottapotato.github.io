@@ -1,0 +1,13 @@
+body{
+ background-image: url(storm.jpg);
+    background-position: center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: dimgray;
+}
+p{
+    color: mintcream;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 36px;
+    font-weight: normal;
+    
